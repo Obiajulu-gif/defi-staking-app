@@ -15,7 +15,7 @@ module.exports = {
 	contracts_build_directory: "./src/truffle_abis", // Directory for ABI files
 	compilers: {
 		solc: {
-			version: "^0.8.6", // Solidity compiler version
+			version: "^0.5.0", // Solidity compiler version
 			optimizer: {
 				enabled: true, // Enable optimization
 				runs: 200, // Optimize for how many times you intend to run the code

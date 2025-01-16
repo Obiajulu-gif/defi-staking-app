@@ -5237,12 +5237,12 @@
         }
       },
       "links": {},
-      "address": "0x5F4E78f32856005Ec199d1f6B89CE0734aF141A3",
-      "transactionHash": "0xc5b20ee875db940490c7c36fbf74fe47757ab145781b0aeec7b3fda0169aae94"
+      "address": "0xcccA36AEE7904Da8F918E0D8ce856f78EDFC0412",
+      "transactionHash": "0x06ea6afd2c88b1f1bdb1fa8951592ec03cb517cd578ef290e14be459861d1b83"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-01-15T14:03:38.220Z",
+  "updatedAt": "2025-01-16T15:58:30.193Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
