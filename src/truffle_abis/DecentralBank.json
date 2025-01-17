@@ -877,10 +877,16 @@
       "links": {},
       "address": "0x7f1F481bD151B10bD21BF64130a083261Fca85C5",
       "transactionHash": "0x33cc1cb857e66aa221816fad940c8164d6bf973040904b2632231d0d2fa7502a"
+    },
+    "1737043441618": {
+      "events": {},
+      "links": {},
+      "address": "0x65A5CB4D2245c71C68b4ffEF078482976A4EBb44",
+      "transactionHash": "0x8d931b66e08692b7653f3f1213dbe09a7dd68ced258f4b469d7f385943fa9fb1"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-01-16T15:58:30.198Z",
+  "updatedAt": "2025-01-17T11:15:14.494Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
